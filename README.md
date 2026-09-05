@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/vardhan2303A52384/sql-problems-leetcode/tree/master/0175-combine-two-tables) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/vardhan2303A52384/sql-problems-leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1693-daily-leads-and-partners](https://github.com/vardhan2303A52384/sql-problems-leetcode/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
